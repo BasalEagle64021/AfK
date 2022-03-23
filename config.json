@@ -1,0 +1,9 @@
+{
+	"ip":"JUNGLE_SAFARI.aternos.me",
+	"port": 52246,
+	"name": "Black_Knights9990[AFK_BOT]",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register Black_Knights9990 Black_Knights9990",
+	"login-cmd":"/login Black_Knights9990"
+}
